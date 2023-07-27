@@ -5,7 +5,7 @@ This is a e-commerce website for online shopping.
 I have created this using CSS and Java Script. 
 This is not responsive.⚠️
 CheckOut here👇
-https://sonalrajsr.github.io/-sonalrajsr-Web_d_Learning-design-2/
+https://sonalrajsr.github.io/Web_d_Learning-design-2/
 
 ![image](https://github.com/sonalrajsr/-sonalrajsr-Web_d_Learning-design-2/assets/123736054/427c6479-8917-480c-adf6-0d99273a0f64)
 
