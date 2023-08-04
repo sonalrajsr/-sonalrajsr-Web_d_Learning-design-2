@@ -1,6 +1,6 @@
 # Web development Course
 
-This is a design which i have created during learning web development.
+This is a design which i have created during learning web development. 
 This is a e-commerce website for online shopping. 
 I have created this using html, CSS, Java Script, gsap. 
 This is not responsive.⚠️
